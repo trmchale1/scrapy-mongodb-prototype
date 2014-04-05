@@ -1,0 +1,6 @@
+This is a prototype webscraper.
+
+Currently it scrapes the front page of hackernews
+into a mongodb database
+
+Set up an instance of mongodb and start crawlin'!
